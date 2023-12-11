@@ -1,4 +1,4 @@
-# Groupe d'Organisation des Coding Goûters
+# Groupe du Coding Goûter Lillois
 
 Bienvenue l'organisation du "Coding goûter Lillois" ! Nous sommes passionnés par l'apprentissage ludique de la programmation dès le plus jeune age. Ce README fournit des informations sur notre groupe, nos objectifs et la manière de contribuer.
 
